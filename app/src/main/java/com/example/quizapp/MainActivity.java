@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     boolean[] answers = {false,true,true,false,false};
     int index=0;
     int score=0;
+    //hello
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
