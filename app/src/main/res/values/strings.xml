@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="java">java</string>
+    <string name="welcome_to_java_quiz">Welcome to My Quiz App</string>
+    <string name="quiz_image">Quiz image</string>
+    <string name="false1">false</string>
+    <string name="true1">True</string>
+
+</resources>
